@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Devop-class\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Devop-class-1\\myfirstazurewebapp\\MyFirstAzureWebApp.csproj",
       "projectName": "MyFirstAzureWebApp",
-      "projectPath": "C:\\Users\\User\\Desktop\\Devop-class\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Devop-class-1\\myfirstazurewebapp\\MyFirstAzureWebApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Devop-class\\MyFirstAzureWebApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Devop-class-1\\myfirstazurewebapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
